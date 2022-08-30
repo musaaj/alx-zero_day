@@ -1,1 +1,1 @@
-Sample readme 
+Sample readme updated. Just practicing git
